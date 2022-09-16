@@ -3,9 +3,9 @@ console.log("Hello World");
 //var time= new Date();
 //alert(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
 
-//alert("esto es un mensaje en una ventana!");
-//document.write("la informacion se muestra dentro de la pagina web html");
-//document.write("<h6>mi segundo parrafo</h6>");
+alert("esto es un mensaje en una ventana!");
+document.write("la informacion se muestra dentro de la pagina web html");
+document.write("<h6>mi segundo parrafo</h6>");
 
 
 let num = 9;
